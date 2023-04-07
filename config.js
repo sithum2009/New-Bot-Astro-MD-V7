@@ -15,5 +15,5 @@ CAPTION: process.env.CAPTION === undefined ? '*ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ꜱ
 ONLY_GROUP: process.env.ONLY_GROUP === undefined ? 'false' : process.env.ONLY_GROUP,
 INBOX_BL_MSG: process.env.INBOX_BL_MSG === undefined ? '*Inbox not allowed' : process.env.INBOX_BL_MSG,
 HOST: process.env.HOST === undefined ? 'replit' : process.env.HOST,
-SESSION_ID: process.env.SESSION_ID === undefined ? '' : process.env.SESSION_ID
+SESSION_ID: process.env.SESSION_ID === undefined ? '4zBgFSSA#mLh0SsiWupkB52CIYwfUbE6niDAPpAHwsHWPBy674m8' : process.env.SESSION_ID
 };
